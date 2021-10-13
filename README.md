@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a highly talented, experienced, professional and cooperative software developer, I am working in programming and web world for more than 2 year . I assure you a wide range of quality IT services. In the major field I am expert in Web development, web design, mobile app development and UI design. I am learning every day to explore the latest software development technologies. 
 
 <!--
 **monirulakand/monirulakand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='github' height='20'>](https://github.com/monirulakand) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/monirul-akand/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/Abdullah328338)
 
-![Abdullah github stats](https://github-readme-stats.vercel.app/api?username=monirulakand&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monirulakand&layout=compact)](https://github.com/monirulakand/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/monirulakand) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/monirul-akand/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/monirul.sumon/)
+
+![Monirul github stats](https://github-readme-stats.vercel.app/api?username=monirulakand&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monirulakand&layout=compact)](https://github.com/monirulakand/github-readme-stats)

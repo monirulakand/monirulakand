@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/monirulakand) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/monirul-akand/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/monirul.sumon/)
 
 ![Monirul github stats](https://github-readme-stats.vercel.app/api?username=monirulakand&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monirulakand&layout=compact)](https://github.com/monirulakand/github-readme-stats)
+
+
+#### Profile Visits 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=monirulakand.monirulakand)

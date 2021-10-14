@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 [![Html Badge](https://img.shields.io/badge/-Html5-CC6699?style=for-the-badge&logo=html5&logoColor=white)](#) 
-[![CSS Badge](https://img.shields.io/badge/-css-CC6699?style=for-the-badge&logo=css&logoColor=white)](#) 
+[![CSS Badge](https://img.shields.io/badge/-CSS-CC6699?style=for-the-badge&logo=css&logoColor=white)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) 

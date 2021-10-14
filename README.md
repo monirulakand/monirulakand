@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) 
 [![jQuery Badge](https://img.shields.io/badge/jQuery-4EA94B?style=for-the-badge&logo=jQuery&logoColor=white)](#) 
 [![Ajax Badge](https://img.shields.io/badge/-Ajax-e535ab?style=for-the-badge&labelColor=black&logo=ajax&logoColor=e535ab)](#) 
-[![SQL Badge](https://img.shields.io/badge/-SQL-5C2D91?style=for-the-badge&logo=sql%20studio&logoColor=white)](#) 
+[![SQL Badge](https://img.shields.io/badge/-Sql-5C2D91?style=for-the-badge&logo=sql%20studio&logoColor=white)](#) 
 [![MySQL Badge](https://img.shields.io/badge/MySLQ-F05032?style=for-the-badge&logo=MySQL&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 

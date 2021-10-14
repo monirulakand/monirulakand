@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 #### Things I code with
 
+
+[![HTML Badge](https://img.shields.io/badge/-Html-CC6699?style=for-the-badge&logo=html&logoColor=white)](#) 
 [![CSS Badge](https://img.shields.io/badge/-CSS-CC6699?style=for-the-badge&logo=css&logoColor=white)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 

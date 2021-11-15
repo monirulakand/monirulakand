@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 
+<!--
 #### My Projects
 
 <table width:"100%" table-responsive>
@@ -68,7 +69,8 @@ Here are some ideas to get you started:
       <td><a href="kistimath.com" target="_blank">kistimath.com</a></td>
     </tr>
   </tbody>
-</table>
+</table >
+
 
 
 #### Profile Visits 

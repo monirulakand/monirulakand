@@ -37,12 +37,12 @@ Here are some ideas to get you started:
 
 
 [![Html Badge](https://img.shields.io/badge/-Html5-CC6699?style=for-the-badge&logo=html5&logoColor=white)](#) 
-[![CSS Badge](https://img.shields.io/badge/-CSS-CC6699?style=for-the-badge&logo=.css&logoColor=white)](#) 
+[![CSS Badge](https://img.shields.io/badge/-CSS-CC6699?style=for-the-badge&logo=css&logoColor=white)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) 
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&labelColor=white&logo=laravel&logoColor=fb503b)](#) 
-[![jQuery Badge](https://img.shields.io/badge/jQuery-ffffff?style=for-the-badge&logo=jQuery&logoColor=blue)](#) 
+[![jQuery Badge](https://img.shields.io/badge/jQuery-ffffff?style=for-the-badge&logo=jquery&logoColor=blue)](#) 
 [![Ajax Badge](https://img.shields.io/badge/-ajax-ffffff?style=for-the-badge&labelColor=blue&logo=ajax&logoColor=ffffff)](#) 
 [![SQL Badge](https://img.shields.io/badge/-Sql-5C2D91?style=for-the-badge&logo=sql%20studio&logoColor=white)](#) 
 [![MySQL Badge](https://img.shields.io/badge/MySLQ-F05032?style=for-the-badge&logo=MySQL&logoColor=white)](#)

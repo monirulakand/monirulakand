@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 #### My Projects
 
-<table>
+<table width:"100%" table-responsive>
   <thead align="center">
     <tr border: none;>
       <td><b>Projects Name</b></td>

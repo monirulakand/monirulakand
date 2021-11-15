@@ -49,19 +49,21 @@ Here are some ideas to get you started:
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 
-### My Projects
+#### My Projects
 
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Description</b></td>
-      <td><b>Responses</b></td>
+      <td><b>Projects Name</b></td>
+      <td><b>Type</b></td>
+      <td><b>Technology</b></td>
+      <td><b>Live Preview</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme" target="_blank">Learn with Sumit Theme</a></td>
+      <td>Visual Studio Code Editor Theme</td>
       <td>Visual Studio Code Editor Theme</td>
       <td>7.8K installs</td>
     </tr>
@@ -69,10 +71,12 @@ Here are some ideas to get you started:
       <td>Listenyzen</td>
       <td>AI powered Social Media Customer Query Aggregator & Analytics SAAS tool</td>
       <td>65+ clients</td>
+      <td>65+ clients</td>
     </tr>
     <tr>
       <td><a href="https://analyzenbd.com" target="_blank">Analyzen</a></td>
       <td>First ever & largest Digital Marketing Agency in Bangladesh</td>
+      <td>120+ clients</td>
       <td>120+ clients</td>
     </tr>
   </tbody>

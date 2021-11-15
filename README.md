@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monirulakand&layout=compact&count_private=true&langs_count=8&card_width=250,card_height=245)](https://github.com/monirulakand/github-readme-stats)
 -->
 
-<p align="center">
+<p>
 <a href="https://github.com/monirulakand">
-  <img height="250px" width="300px" src="https://github-readme-stats.vercel.app/api?username=monirulakand&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="250px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monirulakand&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="200em" width="300px" src="https://github-readme-stats.vercel.app/api?username=monirulakand&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monirulakand&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 

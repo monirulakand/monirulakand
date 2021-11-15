@@ -62,22 +62,10 @@ Here are some ideas to get you started:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme" target="_blank">Learn with Sumit Theme</a></td>
-      <td>Visual Studio Code Editor Theme</td>
-      <td>Visual Studio Code Editor Theme</td>
-      <td>7.8K installs</td>
-    </tr>
-    <tr>
-      <td>Listenyzen</td>
-      <td>AI powered Social Media Customer Query Aggregator & Analytics SAAS tool</td>
-      <td>65+ clients</td>
-      <td>65+ clients</td>
-    </tr>
-    <tr>
-      <td><a href="https://analyzenbd.com" target="_blank">Analyzen</a></td>
-      <td>First ever & largest Digital Marketing Agency in Bangladesh</td>
-      <td>120+ clients</td>
-      <td>120+ clients</td>
+      <td>Kistimath</td>
+      <td>Ecommerce CMS</td>
+      <td>Laravel & React JS</td>
+      <td><a href="kistimath.com" target="_blank">kistimath.com</a></td>
     </tr>
   </tbody>
 </table>

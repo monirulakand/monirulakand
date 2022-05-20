@@ -53,6 +53,12 @@ Here are some ideas to get you started:
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
 
+
+
+#### UI/UX Design / Geaphics Design
+
+[![AdobeXD Badge](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](#) 
+ 	
 <!--
 #### My Projects
 

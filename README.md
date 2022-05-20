@@ -68,13 +68,11 @@ Here are some ideas to get you started:
 
 <table width:"100%" table-responsive>
   <thead align="center">
-    <th border: none;>
       <td><b>No</b></td>
       <td><b>Projects Name</b></td>
       <td><b>Type</b></td>
       <td><b>Technology</b></td>
       <td><b>Live Preview</b></td>
-    </th>
   </thead>
   <tbody>
     <tr>

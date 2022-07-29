@@ -56,11 +56,9 @@ Here are some ideas to get you started:
 
 
 
-#### UI/UX Design / Geaphics Design
+#### UI/UX Design
 
 [![AdobeXD Badge](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](#)
-[![AdobePhotoShop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](#) 
-[![AdobeAI Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](#) 
 [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#) 
  	
 

@@ -21,18 +21,17 @@ Here are some ideas to get you started:
 [![Globe Badge](https://img.shields.io/badge/Portfolio-1877F2?style=for-the-badge&logo=globe&logoColor=white)](https://monirulakand.com) 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/monirul.sumon/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monirul-akand/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soft.monirul@gmail.com)
 
-
+<!--   
 ![Monirul github](https://github-readme-stats.vercel.app/api?username=monirulakand&count_private=true&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monirulakand&layout=compact&count_private=true&langs_count=8&card_width=250,card_height=245)](https://github.com/monirulakand/github-readme-stats)
-
+-->
 
 
 
 <p align="left">
 <a href="https://github.com/monirulakand">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monirulakand&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monirulakand&layout=compact&langs_count=8&theme=algolia"/> -->
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monirulakand&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monirulakand&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 

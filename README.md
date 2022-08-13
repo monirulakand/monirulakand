@@ -24,12 +24,16 @@ Here are some ideas to get you started:
 <!--
 ![Monirul github](https://github-readme-stats.vercel.app/api?username=monirulakand&count_private=true&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monirulakand&layout=compact&count_private=true&langs_count=8&card_width=250,card_height=245)](https://github.com/monirulakand/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsozon45-source&layout=compact)](https://github.com/mdsozon45-source/github-readme-stats)
 -->
 
 <p align="left">
 <a href="https://github.com/monirulakand">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monirulakand&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monirulakand&layout=compact&langs_count=8&theme=algolia"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monirulakand&layout=compact&langs_count=8&theme=algolia"/> -->
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monirulakand&layout=compact"/>
 </a>
 </p>
 

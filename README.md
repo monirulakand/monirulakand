@@ -58,6 +58,14 @@ Here are some ideas to get you started:
   <tbody>
     <tr>
       <td>1</td>
+      <td>Site Squad</td>
+      <td>Seo, ADA, Cookie, SSL & Site Speed Checker</td>
+      <td>React JS</td>
+      <td><a href="sitesquad.io" target="_blank">sitesquad.io</a></td>
+    </tr>
+  
+    <tr>
+      <td>1</td>
       <td>Cyber Hero (cyber-71)</td>
       <td>Cyber 71 Quiz Contest</td>
       <td>React JS</td>

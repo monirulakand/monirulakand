@@ -68,7 +68,7 @@ Here are some ideas to get you started:
    <tr>
       <td>2</td>
       <td>FMCSA Registration</td>
-      <td>customers Safety Management Servicese</td>
+      <td>Customers Safety Management Servicese</td>
       <td>Jquery, Bootstrap</td>
       <td><a href="fmcsaregistration.com" target="_blank">fmcsaregistration.com</a></td>
     </tr>
@@ -76,10 +76,10 @@ Here are some ideas to get you started:
   
    <tr>
       <td>3</td>
-      <td>Porzotok</td>
-      <td>Hotel Reservation system</td>
+      <td>Portfolio (V-2.1)</td>
+      <td>Created my portfolio website</td>
       <td>React JS</td>
-      <td><a href="porzotok.com" target="_blank">porzotok.com</a></td>
+      <td><a href="monirulakand.com" target="_blank">monirulakand.com</a></td>
     </tr>
   
    <tr>

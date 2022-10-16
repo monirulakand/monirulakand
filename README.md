@@ -66,13 +66,6 @@ Here are some ideas to get you started:
       <td><a href="sitesquad.io" target="_blank">sitesquad.io</a></td>
     </tr>
     <tr>
-    <td>02</td>
-      <td>FMCSA Registration</td>
-        <td>Customers full-scale Safety Management Services</td>
-          <td>Jquery, Bootstrap</td>
-            <td><a href="fmcsaregistration.com" target="_blank">fmcsaregistration.com</a></td>
-    </tr>
-    <tr>
       <td>02</td>
       <td>FMCSA Registration</td>
       <td>Customers full-scale Safety Management Services</td>
@@ -104,7 +97,6 @@ Here are some ideas to get you started:
       <td><a href="kistimath.com" target="_blank">kistimath.com</a></td>
     </tr>
   
-  
    <tr>
       <td>06</td>
       <td>Rajshahi Mango</td>
@@ -128,6 +120,7 @@ Here are some ideas to get you started:
       <td>Laravel & React JS</td>
       <td><a href="ecom.monirulakand.com" target="_blank">ecom.monirulakand.com</a></td>
     </tr>
+  
     <tr>
       <td>09</td>
       <td>Vigo Agrovet Ltd.</td>
@@ -135,6 +128,7 @@ Here are some ideas to get you started:
       <td>Laravel & jQuery</td>
       <td><a href="vigo-admin.monirulakand.com" target="_blank">vigo-admin.monirulakand.com</a></td>
     </tr>
+  
      <tr>
       <td>10</td>
       <td>Cyber Hero (cyber-71)</td>
@@ -142,6 +136,7 @@ Here are some ideas to get you started:
       <td>React JS</td>
       <td><a href="cyberherobd.com" target="_blank">cyberherobd.com</a></td>
     </tr>
+  
   </tbody>
 </table>
 

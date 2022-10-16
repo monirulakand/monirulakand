@@ -63,21 +63,14 @@ Here are some ideas to get you started:
       <td>React JS</td>
       <td><a href="sitesquad.io" target="_blank">sitesquad.io</a></td>
     </tr>
+ 
   
-    <tr>
+   <tr>
       <td>2</td>
       <td>FMCSA Registration</td>
       <td>customers Safety Management Servicese</td>
       <td>Jquery, Bootstrap</td>
       <td><a href="fmcsaregistration.com" target="_blank">fmcsaregistration.com</a></td>
-    </tr>
-  
-   <tr>
-      <td>2</td>
-      <td>Arena Web Security</td>
-      <td>Company Portfolio Website</td>
-      <td>React JS</td>
-      <td><a href="arenawebsecurity.net" target="_blank">arenawebsecurity.net</a></td>
     </tr>
   
   

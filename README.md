@@ -68,7 +68,7 @@ Here are some ideas to get you started:
    <tr>
       <td>2</td>
       <td>FMCSA Registration</td>
-      <td>Customers Safety Management Servicese</td>
+      <td>Customers Safety Management Services</td>
       <td>Jquery, Bootstrap</td>
       <td><a href="https://fmcsaregistration.com" target="_blank">fmcsaregistration.com</a></td>
     </tr>

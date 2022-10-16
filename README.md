@@ -3,9 +3,7 @@ I’m Monirul Islam Akand. A professional developer, specializing in JavaScript-
 
 <!--
 **monirulakand/monirulakand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -58,67 +56,97 @@ Here are some ideas to get you started:
       <td><b>Live Preview</b></td>
   </thead>
   <tbody>
-  
     <tr>
       <td>1</td>
-      <td>Site Squad</td>
-      <td>Seo, ADA, Cookie, SSL & Site Speed Checker</td>
-      <td>React JS</td>
-      <td><a href="sitesquad.io" target="_blank">sitesquad.io</a></td>
-    </tr>
-  
-    <tr>
-      <td>2</td>
-      <td>FMCSA Registration</td>
-      <td>Customers full-scale Safety Management Services</td>
-      <td>Jquery, Bootstrap</td>
-      <td><a href="fmcsaregistration.com" target="_blank">fmcsaregistration.com</a></td>
-    </tr>
-   
-    <tr>
-      <td>3</td>
-      <td>Portfolio V-0.2</td>
-      <td>Created my portfolio website</td>
-      <td>React JS</td>
-      <td><a href="monirulakand.com" target="_blank">monirulakand.com</a></td>
-    </tr>
-  
-  
-    
-    <tr>
-      <td>7</td>
-      <td>Creative Academy</td>
-      <td>Course Management</td>
-      <td>Laravel & jQuery</td>
-      <td><a href="academyadmin.monirulakand.com" target="_blank">academyadmin.monirulakand.com</a></td>
-    </tr>
-    
-    <tr>
-      <td>8</td>
-      <td>React Ecom Website</td>
-      <td>Ecommerce Website</td>
-      <td>Laravel & React JS</td>
-      <td><a href="ecom.monirulakand.com" target="_blank">ecom.monirulakand.com</a></td>
-    </tr>
-  
-    <tr>
-      <td>9</td>
-      <td>Vigo Agrovet Ltd.</td>
-      <td>Agro Medicine project management</td>
-      <td>Laravel & jQuery</td>
-      <td><a href="vigo-admin.monirulakand.com" target="_blank">vigo-admin.monirulakand.com</a></td>
-    </tr>
-  
-     <tr>
-      <td>10</td>
       <td>Cyber Hero (cyber-71)</td>
       <td>Cyber 71 Quiz Contest</td>
       <td>React JS</td>
       <td><a href="cyberherobd.com" target="_blank">cyberherobd.com</a></td>
     </tr>
   
+   <tr>
+      <td>2</td>
+      <td>Arena Web Security</td>
+      <td>Company Portfolio Website</td>
+      <td>React JS</td>
+      <td><a href="arenawebsecurity.net" target="_blank">arenawebsecurity.net</a></td>
+    </tr>
+  
+  
+   <tr>
+      <td>3</td>
+      <td>Porzotok</td>
+      <td>Hotel Reservation system</td>
+      <td>React JS</td>
+      <td><a href="porzotok.com" target="_blank">porzotok.com</a></td>
+    </tr>
+  
+   <tr>
+      <td>4</td>
+      <td>Kistimath</td>
+      <td>Ecommerce CMS</td>
+      <td>Laravel & React JS</td>
+      <td><a href="kistimath.com" target="_blank">kistimath.com</a></td>
+    </tr>
+  
+  
+   <tr>
+      <td>5</td>
+      <td>Rajshahi Mango</td>
+      <td>Online Fruit Website</td>
+      <td>Laravel & React JS</td>
+      <td><a href="rajshahiram.com.bd" target="_blank">rajshahiram.com.bd</a></td>
+    </tr>
+  
+  
+   <tr>
+      <td>6</td>
+      <td>Rajshahi Shop</td>
+      <td>Online Ecom Website</td>
+      <td>Laravel & React JS</td>
+      <td><a href="rajshahishop.xyz" target="_blank">rajshahishop.xyz</a></td>
+    </tr>
+  
+  
+  
+   <tr>
+      <td>7</td>
+      <td>Jahid Physics Academy</td>
+      <td>Online Course Academy</td>
+      <td>Laravel & jQuery</td>
+      <td><a href="jahidphysics.com" target="_blank">jahidphysics.com</a></td>
+    </tr>
+  
+  
+   <tr>
+      <td>8</td>
+      <td>Creative Academy</td>
+      <td>Course Management</td>
+      <td>Laravel & jQuery</td>
+      <td><a href="student.monirulakand.com" target="_blank">student.monirulakand.com</a></td>
+    </tr>
+  
+  
+   <tr>
+      <td>9</td>
+      <td>Vigo Agrovet Ltd.</td>
+      <td>Agro Medicine Website</td>
+      <td>Laravel & jQuery</td>
+      <td><a href="vigoagrovetltd.com" target="_blank">vigoagrovetltd.com</a></td>
+    </tr>
+  
+  
+   <tr>
+      <td>10</td>
+      <td>React Ecom Website</td>
+      <td>Ecommerce Website</td>
+      <td>Laravel & React JS</td>
+      <td><a href="ecom.monirulakand.com" target="_blank">ecom.monirulakand.com</a></td>
+    </tr>
   </tbody>
-</table>
+</table >
+
+
 
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=monirulakand.monirulakand)

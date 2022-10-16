@@ -83,29 +83,7 @@ Here are some ideas to get you started:
       <td><a href="monirulakand.com" target="_blank">monirulakand.com</a></td>
     </tr>
   
-   <tr>
-      <td>4</td>
-      <td>Arena Web Security</td>
-      <td>Company Portfolio Website</td>
-      <td>React JS</td>
-      <td><a href="arenawebsecurity.net" target="_blank">arenawebsecurity.net</a></td>
-    </tr>
   
-   <tr>
-      <td>5</td>
-      <td>Kistimath</td>
-      <td>Ecommerce CMS</td>
-      <td>Laravel & React JS</td>
-      <td><a href="kistimath.com" target="_blank">kistimath.com</a></td>
-    </tr>
-  
-   <tr>
-      <td>6</td>
-      <td>Rajshahi Mango</td>
-      <td>Online Fruit Website</td>
-      <td>Laravel & React JS</td>
-      <td><a href="rajshahiram.com.bd" target="_blank">rajshahiram.com.bd</a></td>
-    </tr>
     
     <tr>
       <td>7</td>

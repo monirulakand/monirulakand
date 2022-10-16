@@ -142,7 +142,5 @@ Here are some ideas to get you started:
   </tbody>
 </table>
 
-
-
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=monirulakand.monirulakand)

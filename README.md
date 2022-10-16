@@ -61,7 +61,7 @@ Here are some ideas to get you started:
       <td>Site Squad</td>
       <td>Seo, ADA, Cookie, SSL & Site Speed Checker</td>
       <td>React JS</td>
-      <td><a href="sitesquad.io" target="_blank">sitesquad.io</a></td>
+      <td><a href="https://sitesquad.io" target="_blank">sitesquad.io</a></td>
     </tr>
  
   
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
       <td>FMCSA Registration</td>
       <td>Customers Safety Management Servicese</td>
       <td>Jquery, Bootstrap</td>
-      <td><a href="fmcsaregistration.com" target="_blank">fmcsaregistration.com</a></td>
+      <td><a href="https://fmcsaregistration.com" target="_blank">fmcsaregistration.com</a></td>
     </tr>
   
   
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
       <td>Portfolio (V-2.1)</td>
       <td>Created my portfolio website</td>
       <td>React JS</td>
-      <td><a href="monirulakand.com" target="_blank">monirulakand.com</a></td>
+      <td><a href="https://monirulakand.com" target="_blank">monirulakand.com</a></td>
     </tr>
   
    <tr>
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
       <td>Kistimath</td>
       <td>Ecommerce CMS</td>
       <td>Laravel & React JS</td>
-      <td><a href="kistimath.com" target="_blank">kistimath.com</a></td>
+      <td><a href="https://kistimath.com" target="_blank">kistimath.com</a></td>
     </tr>
   
   
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
       <td>Rajshahi Mango</td>
       <td>Online Fruit Website</td>
       <td>Laravel & React JS</td>
-      <td><a href="rajshahiram.com.bd" target="_blank">rajshahiram.com.bd</a></td>
+      <td><a href="https://rajshahiram.com.bd" target="_blank">rajshahiram.com.bd</a></td>
     </tr>
   
   

@@ -58,13 +58,15 @@ Here are some ideas to get you started:
       <td><b>Live Preview</b></td>
   </thead>
   <tbody>
+  
     <tr>
-      <td>01</td>
+      <td>1</td>
       <td>Site Squad</td>
       <td>Seo, ADA, Cookie, SSL & Site Speed Checker</td>
       <td>React JS</td>
       <td><a href="sitesquad.io" target="_blank">sitesquad.io</a></td>
     </tr>
+  
     <tr>
       <td>2</td>
       <td>FMCSA Registration</td>

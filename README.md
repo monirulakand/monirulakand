@@ -66,7 +66,7 @@ Here are some ideas to get you started:
       <td><a href="sitesquad.io" target="_blank">sitesquad.io</a></td>
     </tr>
     <tr>
-      <td>02</td>
+      <td>2</td>
       <td>FMCSA Registration</td>
       <td>Customers full-scale Safety Management Services</td>
       <td>Jquery, Bootstrap</td>
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
     </tr>
    
     <tr>
-      <td>03</td>
+      <td>3</td>
       <td>Portfolio V-0.2</td>
       <td>Created my portfolio website</td>
       <td>React JS</td>
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
     </tr>
   
    <tr>
-      <td>04</td>
+      <td>4</td>
       <td>Arena Web Security</td>
       <td>Company Portfolio Website</td>
       <td>React JS</td>
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
     </tr>
   
    <tr>
-      <td>05</td>
+      <td>5</td>
       <td>Kistimath</td>
       <td>Ecommerce CMS</td>
       <td>Laravel & React JS</td>
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
     </tr>
   
    <tr>
-      <td>06</td>
+      <td>6</td>
       <td>Rajshahi Mango</td>
       <td>Online Fruit Website</td>
       <td>Laravel & React JS</td>
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
     </tr>
     
     <tr>
-      <td>07</td>
+      <td>7</td>
       <td>Creative Academy</td>
       <td>Course Management</td>
       <td>Laravel & jQuery</td>
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
     </tr>
     
     <tr>
-      <td>08</td>
+      <td>8</td>
       <td>React Ecom Website</td>
       <td>Ecommerce Website</td>
       <td>Laravel & React JS</td>
@@ -122,7 +122,7 @@ Here are some ideas to get you started:
     </tr>
   
     <tr>
-      <td>09</td>
+      <td>9</td>
       <td>Vigo Agrovet Ltd.</td>
       <td>Agro Medicine project management</td>
       <td>Laravel & jQuery</td>

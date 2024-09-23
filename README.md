@@ -1,5 +1,5 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" height="20px" alt="hi">
-I’m Monirul Islam Akand. A professional developer, specializing in JavaScript-based technologies. I have been programming and working on the web for over 2 years. I am expanding my knowledge with new software technologies and tools every day. Hopeful for a Software Developer position in your company to turn complex requirements into compatible software.
+I’m Monirul Islam Akand. A professional developer, specializing in JavaScript & PHP based technologies. I have been programming and working on the web for over 3 years. I am expanding my knowledge with new software technologies and tools every day. Hopeful for a Software Developer position in your company to turn complex requirements into compatible software.
 
 <!--
 **monirulakand/monirulakand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
